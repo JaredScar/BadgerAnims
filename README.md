@@ -1,0 +1,2 @@
+# BadgerAnims
+A Fivem Script
