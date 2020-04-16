@@ -1,4 +1,7 @@
 # BadgerAnims
+## Continued Documentation
+https://docs.badger.store/fivem-misc.-scripts/badgeranims
+## Discontinued Documentation
 **Version 1.0**
 This is basically just a script I threw together for my server with a bunch of useful walking styles, animations, and features.
 
