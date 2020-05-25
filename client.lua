@@ -237,7 +237,7 @@ if enableLockpick then
 					labelStr = lockpickingCopCarStr
 				end
 				----[[
-				TriggerEvent("mythic_progbar:client:progress", {
+				TriggerEvent("mythic_progressbar:client:progress", {
 					name = "BreakingIntoCar",
 					duration = durationTime,
 					label = labelStr,
